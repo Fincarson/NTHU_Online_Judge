@@ -20,8 +20,8 @@ int main()
     int n;
     scanf("%d", &n);
     n--;
-    int d = 1 << n;             // 2 to the power of n
-    int span = (d - 1) * 2 + d;     // span of carpet
+    int d = 1 << n;
+    int span = (d - 1) * 2 + d;
 
     for (int i = 0;i < span;i++) {
         for (int j = 0;j < span;j++) {
