@@ -1,4 +1,4 @@
-# Problem 13349 - Karpet Agak Ribet
+# Problem 13628 - Elsa's curse
 [NTHUOJ Problem 13628 - Elsa's curse](https://acm.cs.nthu.edu.tw/problem/13628/)
 
 ## Topics
