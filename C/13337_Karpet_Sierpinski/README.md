@@ -1,6 +1,4 @@
 # Problem 13337 - Karpet Sierpinski
-
-## Description
 [NTHUOJ Problem 13337 - Karpet Sierpinski](https://acm.cs.nthu.edu.tw/problem/13337/)
 This can be solved with recursion.
 
@@ -10,6 +8,12 @@ It starts with a white square divided into 9 smaller subsquares, which interior 
 
 To obtain a carpet at Depth = 2, do the same procedure recursively to the remaining 8 subsquares.
 
+Here is an example of the carpet with Depth 1, 2, 3, & 4.
+![Carpet Example](image.png)
+
 
 ## Topics
 - Recursion
+
+## Similar Problems
+- [NTHUOJ Problem 13337 - Karpet Sierpinski](https://acm.cs.nthu.edu.tw/problem/13337/)
