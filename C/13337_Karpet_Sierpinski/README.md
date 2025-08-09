@@ -1,19 +1,12 @@
 # Problem 13337 - Karpet Sierpinski
 [NTHUOJ Problem 13337 - Karpet Sierpinski](https://acm.cs.nthu.edu.tw/problem/13337/)
-This can be solved with recursion.
-
-The Sierpinski Carpet is a self-similar pattern with 8 non-overlapping copies of itself. 
-
-It starts with a white square divided into 9 smaller subsquares, which interior square is filled with black (Depth = 1).
-
-To obtain a carpet at Depth = 2, do the same procedure recursively to the remaining 8 subsquares.
-
-Here is an example of the carpet with Depth 1, 2, 3, & 4.
-![Carpet Example](image.png)
-
 
 ## Topics
 - Recursion
 
 ## Similar Problems
-- [NTHUOJ Problem 13337 - Karpet Sierpinski](https://acm.cs.nthu.edu.tw/problem/13337/)
+- [NTHUOJ Problem 13339 - Karpet Ribet](https://acm.cs.nthu.edu.tw/problem/13339/)
+- [NTHUOJ Problem 13349 - Karpet Agak Ribet](https://acm.cs.nthu.edu.tw/problem/13349/)
+- [NTHUOJ Problem 13628 - Elsa's curse](https://acm.cs.nthu.edu.tw/problem/13628/)
+- [NTHUOJ Problem 14029 - Piece of a Dragon Curve](https://acm.cs.nthu.edu.tw/problem/14029/)
+- [NTHUOJ Problem 14498 - Hilbert Curve](https://acm.cs.nthu.edu.tw/problem/14498/)
