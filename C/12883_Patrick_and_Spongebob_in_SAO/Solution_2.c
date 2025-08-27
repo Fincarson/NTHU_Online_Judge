@@ -7,7 +7,7 @@ int main() {
 	for (int i = 1;i <= n;i++) scanf("%d", &arr[i]);
 	int q;
 	scanf("%d", &q);
-	int cnt[maxn];
+	int cnt[maxn] = {};
 	while (q--) {
 		int l, r;
 		scanf("%d %d", &l, &r);
