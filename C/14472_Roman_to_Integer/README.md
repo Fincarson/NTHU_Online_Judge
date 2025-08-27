@@ -7,3 +7,6 @@ You need to check the consecutive and ordering, also the subtractive notation
 
 ## Topics
 - Roman Mathematics
+
+## References
+- [LeetCode: 12 - Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)
