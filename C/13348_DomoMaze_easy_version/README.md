@@ -8,5 +8,5 @@
 - [演算法筆記 - Dynamic Programming](http://web.ntnu.edu.tw/~algo/DynamicProgramming.html)
 
 ## Similar Problems
-- [NTHUOJ 13346 - DomoMaze](https://acm.cs.nthu.edu.tw/problem/13348/)
+- [NTHUOJ Problem 13346 - DomoMaze](https://acm.cs.nthu.edu.tw/problem/13348/)
 - [NTHUOJ Problem 14529 - Bidirectional DomoMaze](https://acm.cs.nthu.edu.tw/problem/14529/)
