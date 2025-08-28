@@ -70,14 +70,3 @@ ListNode* mergeLists(ListNode** lists, int n) {
     free(heap.arr);
     return mergedHead;
 }
-
-
-
-/*
-=== TOPIC(S) ===
-Heap Sort
-
-
-=== AUTHOR(S) ===
-黃奮盛 Vincent
-*/
