@@ -22,9 +22,12 @@ That's why we know for sure that the TA will not make a large map when there's (
 In this case, recursion works
 
 
-
-
 ## Topics
 - Dynamic Programming
 - Recursion
 - 2D Array
+
+
+## Similar Problems
+- [NTHUOJ Problem 13348 - DomoMaze - easy version](https://acm.cs.nthu.edu.tw/problem/13348/)
+- [NTHUOJ Problem 14529 - Bidirectional DomoMaze](https://acm.cs.nthu.edu.tw/problem/14529/)
