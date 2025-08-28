@@ -1,6 +1,11 @@
 # Problem Problem 13348 - DomoMaze - easy version
 [NTHUOJ Problem 13348 - DomoMaze - easy version](https://acm.cs.nthu.edu.tw/problem/13348/)
 
+## Topics
+- Dynamic Programming
+- Recursion
+- 2D Array
+
 ## References
 - [Dynamic Programming - GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/#concepts)
 - [Tabulation vs. Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
