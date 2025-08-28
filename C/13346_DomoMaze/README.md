@@ -12,7 +12,7 @@ If there's no (1), only (0)s, then the number of possibilities can be thousands 
 That's why we use dynamic programming because it works
 
 
-However, if there's (1), the possibilities can be BILLIIONS or possibly more than that,
+However, if there's (1), the possibilities can be BILLIONS or possibly more than that,
 
 even if we use dynamic programming, we will always get TLE.
 
