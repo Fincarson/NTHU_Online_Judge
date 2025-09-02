@@ -6,3 +6,4 @@
 
 ## Similar Problems
 - [NTHUOJ Problem 14074 - Report on Quadtrees](https://acm.cs.nthu.edu.tw/problem/14074/)
+- [NTHUOJ Problem 14107 - Attack on Quadtrees Final Seasons](https://acm.cs.nthu.edu.tw/problem/14107/)
