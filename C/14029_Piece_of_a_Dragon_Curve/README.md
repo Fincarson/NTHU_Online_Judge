@@ -1,4 +1,4 @@
-# Problem 13349 - Karpet Agak Ribet
+# Problem 14029 - Piece of a Dragon Curve
 [NTHUOJ Problem 14029 - Piece of a Dragon Curve](https://acm.cs.nthu.edu.tw/problem/14029/)
 
 ## Topics
