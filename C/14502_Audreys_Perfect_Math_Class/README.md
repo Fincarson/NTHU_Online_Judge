@@ -6,3 +6,5 @@
 - Recursion
 - Polish Notation
 
+## Similar Problems
+- [NTHUOJ Problem 14528 - Loki doing Math](https://acm.cs.nthu.edu.tw/problem/14528/)
