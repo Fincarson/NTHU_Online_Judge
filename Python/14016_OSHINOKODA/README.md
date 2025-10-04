@@ -3,5 +3,5 @@
 
 
 ## Topics
-- Array
+- 2D Array
 - Prefix Sum
