@@ -1,0 +1,1 @@
+print(int((float(input()) - 32) / 1.8))

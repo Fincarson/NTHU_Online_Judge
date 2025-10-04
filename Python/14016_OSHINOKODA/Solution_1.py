@@ -10,14 +10,12 @@ sum_diag_b = [0] * (2 * N - 1)
 for i in range(N):
     array[i] = list(map(int, input().split()))
     row = array[i]
-    rowSum = 0
     for j in range(N):
         value = row[j]
-        rowSum += value
+        sum_row[i] += value
         sum_col[j] += value
         sum_diag_a[i + j] += value
         sum_diag_b[i - j + N - 1] += value
-    sum_row[i] = rowSum
 
 
 for t in range(T):

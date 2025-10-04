@@ -2,8 +2,8 @@ T = int(input())
 for t in range(T):
     N = int(input())
     array = []
-    while len(array) < N:
-        array.extend(map(int, input().split()))
+    array.extend(map(int, input().split()))
+        
 
     sumMax = array[0]
     sumOutput = array[0]
