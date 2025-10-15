@@ -4,7 +4,7 @@ def solve(n, d, grid):
 
     We've read the input for you.
 
-    this function will take in 2 parameters:
+    this function will take in 3 parameters:
         - n:
             a integer representing the size of the grid
         - d:

@@ -1,0 +1,7 @@
+# Problem 14724 - DS HW2 Arithmetic Evaluation
+[NTHUOJ Problem 14724 - DS HW2 Arithmetic Evaluation](https://acm.cs.nthu.edu.tw/problem/14724/)
+
+
+## Topics
+- Stack
+- Infix Expression

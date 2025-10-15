@@ -9,10 +9,12 @@ def solve(n, d, grid):
         if(d == 1):
             ans += "".join(diagonal_grid[i][::-1])
             d = 0
-        else:
-            ans += "".join(diagonal_grid[i][0:])
+        else: # d = 0
+            ans += "".join(diagonal_grid[i][:])
             d = 1
     return ans
+
+
 
 _n, _d = map(int, input().split())
 
