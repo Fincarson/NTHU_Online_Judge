@@ -3,7 +3,7 @@
 
 
 ## Topics
-- Prefix Sum
+- String
 
 
 ## Similar Problems
