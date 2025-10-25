@@ -4,3 +4,7 @@
 
 ## Topics
 - Linked List
+
+
+## Similar Problems
+- [NTHUOJ Problem 14664 - DS HW1 String Manipulation](https://acm.cs.nthu.edu.tw/problem/14664/)
