@@ -1,4 +1,4 @@
 Welcome!
 
 ### Hello, World! (Introduction)
-- ![EASY](badges/easy.svg)
+- ![EASY](Miscellaneous/Badges/Easy.svg)
