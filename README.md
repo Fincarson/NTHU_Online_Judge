@@ -608,7 +608,7 @@ We hope this helps fellow students in their academic journey!
 
 
 
-
+___
 ### Stack
 A stack is a specialized ordered list in which insertions (or called additions or pushes) and deletions (or called removals or pops) are made at one end called the top.
  
