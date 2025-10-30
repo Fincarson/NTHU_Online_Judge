@@ -1,7 +1,7 @@
 # 國立清華大學 - NTHU Online Judge
 <p>
   <a href="https://www.nthu.edu.tw/">
-    <img src="Miscellaneous/Images/nthu.jpg" width="850" alt="NTHU website">
+    <img src="Miscellaneous/Images/EECS_Building.jpg" width="850" alt="NTHU website">
   </a>
 </p>
 Welcome!
