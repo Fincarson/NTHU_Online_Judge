@@ -549,10 +549,10 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
 </p>
 <p>
   <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
-  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="Solutions/13628_Elsa's_curse"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13628"><strong>13628 - Elsa's curse</strong></a>
 </p>
@@ -561,7 +561,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Spacer_Python.svg" alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="Solutions/14029_Piece_of_a_Dragon_Curve"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14029"><strong>14029 - Piece of a Dragon Curve</strong></a>
 </p>
