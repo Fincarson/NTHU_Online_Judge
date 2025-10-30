@@ -439,7 +439,7 @@ We hope this helps fellow students in their academic journey!
 ## Sorting
 <p>
   <a href="https://avashist1998.github.io/posts/sorting_visualization/">
-    <img src="Miscellaneous/Images/Recursion.webp" width="850" alt="Stack">
+    <img src="Miscellaneous/Images/Sorting.jpg" width="850" alt="Stack">
   </a>
 </p>
 <p>
