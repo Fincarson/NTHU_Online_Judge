@@ -6,11 +6,11 @@
 </p>
 
 NTHU Online Judge is National Tsing Hua University’s programming/engineering practice platform used heavily in I2P (Introduction to Programming), and Data Structures. It supports languages like C/C++, Java and Python, provides auto-judging with test cases and scoreboards, and hosts a large archive of course problems and past assignments. Perfect for fast feedback, repeatable practice, and tracking progress across semesters.
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-This GitHub page collects my NTHU OJ materials in one place (solutions, practice sets, references, and step-by-step guides)
 
 <p>&nbsp;</p>
+
+This GitHub page collects my NTHU OJ materials in one place (solutions, practice sets, references, and step-by-step guides)
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
