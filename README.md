@@ -10,14 +10,17 @@ NTHU Online Judge is National Tsing Hua University’s programming/engineering p
 This GitHub page collects our NTHU OJ materials in one place (solutions, practice sets, references, and step-by-step guides)
  
 
-## DISCLAIMER!
+## !!!DISCLAIMER!!!
 - This collection is not guaranteed to be complete.
 - Some problems may contain answer keys or solutions, but accuracy is not guaranteed. Please use them as a reference only.
 - Always double-check with official course materials or instructors when studying.
 - We do not condone academic dishonesty (cheating, plagiarism, unauthorized collaboration). Use this repo responsibly. We are not liable for any consequences arising from misuse.
+ 
 We hope this helps fellow students in their academic journey!
 
-<br>
+<br><br>
+
+## Practice Problems
 
 ### Hello, World! (Introduction)
 <p>
