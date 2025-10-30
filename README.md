@@ -1,4 +1,9 @@
 # 國立清華大學 - NTHU Online Judge
+<p>
+  <a href="https://www.nthu.edu.tw/">
+    <img src="Miscellaneous/Images/nthu.jpg" width="850" alt="NTHU website">
+  </a>
+</p>
 Welcome!
 
 ### Hello, World! (Introduction)
