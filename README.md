@@ -472,6 +472,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/12496_Eight_Queen"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/12496"><strong>12496 - Eight Queen</strong></a>
 </p>
 <p>
@@ -480,6 +481,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/12602_OuQ_String"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/12602"><strong>12602 - OuQ String</strong></a>
 </p>
 <p>
@@ -488,6 +490,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13333_Stewie_vs_Brian"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13333"><strong>13333 - Stewie vs Brian</strong></a>
 </p>
 <p>
@@ -496,6 +499,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13680_Mr_Bean"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13680"><strong>13680 - Mr Bean</strong></a>
 </p>
 <p>
@@ -504,6 +508,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/12604_N-Queens_M-Rooks_Problem"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/12604"><strong>12604 - N-Queens M-Rooks Problem</strong></a>
 </p>
 <p>
@@ -512,6 +517,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13345_Domo_run!"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13345"><strong>13345 - Domo run!</strong></a>
 </p>
 <p>
@@ -520,6 +526,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13337_Karpet_Sierpinski"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13337"><strong>13337 - Karpet Sierpinski</strong></a>
 </p>
 <p>
@@ -528,6 +535,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13339_Karpet_Ribet"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13339"><strong>13339 - Karpet Ribet</strong></a>
 </p>
 <p>
@@ -536,6 +544,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13349_Karpet_Agak_Ribet"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13349"><strong>13349 - Karpet Agak Ribet</strong></a>
 </p>
 <p>
@@ -544,6 +553,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13628_Elsa's_curse"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13628"><strong>13628 - Elsa's curse</strong></a>
 </p>
 <p>
@@ -552,6 +562,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/14029_Piece_of_a_Dragon_Curve"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14029"><strong>14029 - Piece of a Dragon Curve</strong></a>
 </p>
 <p>
@@ -560,6 +571,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/14498_Hilbert_Curve"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14498"><strong>14498 - Hilbert Curve</strong></a>
 </p>
 
@@ -576,7 +588,7 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
 </p>
 <p>
 A linked list are nodes that no longer continue in the memory and each node stores the address or location of
-the next one
+the next one.
  
 ### Most commonly asked problems:
 - Linked-List Operations: Insert, delete, reverse
