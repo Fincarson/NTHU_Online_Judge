@@ -168,6 +168,15 @@ We hope this helps fellow students in their academic journey!
   <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14722"><strong>14722 - Potato's Password I</strong></a>
 </p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Med.svg"           alt="MED"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_C.svg"      alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/14745"><strong>14745 - Potato's Password III</strong></a>
+</p>
+
 <br>
 
 ### 3D Array
