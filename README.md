@@ -120,6 +120,22 @@ We hope this helps fellow students in their academic journey!
   <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14698"><strong>14698 - A boring article</strong></a>
 </p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_C.svg"      alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/14701"><strong>14701 - Gold Ship’s quiz</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_C.svg"      alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/14710"><strong>14710 - Gold Ship’s quiz II</strong></a>
+</p>
 
 <br>
 
