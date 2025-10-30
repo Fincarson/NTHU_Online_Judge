@@ -4,7 +4,18 @@
     <img src="Miscellaneous/Images/EECS_Building.jpg" width="850" alt="NTHU website">
   </a>
 </p>
-Welcome!
+NTHU Online Judge is National Tsing Hua University’s programming/engineering practice platform used heavily in I2P (Introduction to Programming), and Data Structures. It supports languages like C/C++, Java and Python, provides auto-judging with test cases and scoreboards, and hosts a large archive of course problems and past assignments. Perfect for fast feedback, repeatable practice, and tracking progress across semesters.
+
+This GitHub page collects my NTHU OJ materials in one place (solutions, practice sets, references, and step-by-step guides)
+
+<br>
+
+## DISCLAIMER
+- This collection is not guaranteed to be complete.
+- Some problems may contain answer keys or solutions, but accuracy is not guaranteed. Please use them as a reference only.
+- Always double-check with official course materials or instructors when studying.
+We hope this helps fellow students in their academic journey!
+
 
 ### Hello, World! (Introduction)
 <p>
