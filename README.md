@@ -649,6 +649,7 @@ Stack is a FILO/LIFO data structure.
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13342_Domo_to_omoD"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13342"><strong>13342 - Domo to omoD</strong></a>
 </p>
 <p>
@@ -657,6 +658,7 @@ Stack is a FILO/LIFO data structure.
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13693_Domo_sonnan_ja_dame"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13693"><strong>13693 - Domo sonnan ja dame</strong></a>
 </p>
 <p>
@@ -665,6 +667,7 @@ Stack is a FILO/LIFO data structure.
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/14724_DS_HW2_Arithmetic_Evaluation"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14724"><strong>14724 - DS HW2 Arithmetic Evaluation</strong></a>
 </p>
 <p>
@@ -673,11 +676,11 @@ Stack is a FILO/LIFO data structure.
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/14782_Arithmetic_Expression_Infix_to_Postfix_Notation"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14782"><strong>14782 - Arithmetic Expression - Infix to Postfix Notation</strong></a>
 </p>
 
 <br>
-
 
 
 
