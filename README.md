@@ -461,10 +461,9 @@ We hope this helps fellow students in their academic journey!
 Recursion a powerful mechanism to make your algorithm or codes more clear in some cases.
  
 ### Most commonly asked problems:
-- Linked-List Operations: Insert, delete, reverse
-- Implement Stack with Linked-List
-- Implement Queue with Linked-List
-- Tree/Graph
+- Chess: 8 queens and other variations
+- Making shapes with recursion
+
  
 ### Problem Set
 <p>
