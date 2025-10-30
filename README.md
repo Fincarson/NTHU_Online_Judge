@@ -607,6 +607,11 @@ We hope this helps fellow students in their academic journey!
 
 
 ## Stack
+<p>
+  <a href="https://learnloner.com/introduction-and-types-of-data-structures-introduction-dsa/stacks/">
+    <img src="Miscellaneous/Images/Stack_Data_Structure.webp" width="850" alt="Stack">
+  </a>
+</p>
 A stack is a specialized ordered list in which insertions (or called additions or pushes) and deletions (or called removals or pops) are made at one end called the top.
  
 Stack is a FILO/LIFO data structure.
