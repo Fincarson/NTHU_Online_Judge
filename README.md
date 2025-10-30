@@ -108,6 +108,30 @@ We hope this helps fellow students in their academic journey!
   <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14678"><strong>14678 - Is it palindrome?</strong></a>
 </p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_C.svg"      alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/14732"><strong>14732 - Is it palindrome?</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_C.svg"      alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/14733"><strong>14733 - String Ninja</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_C.svg"      alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/14737"><strong>14737 - Temperature Conversions II</strong></a>
+</p>
 
 <br>
 
@@ -151,6 +175,14 @@ We hope this helps fellow students in their academic journey!
   <sub><img src="Miscellaneous/Badges/Spacer_C.svg"      alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14710"><strong>14710 - Gold Ship’s quiz II</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/14751"><strong>14751 - Reorder Distance</strong></a>
 </p>
 
 <br>
