@@ -201,6 +201,8 @@ We hope this helps fellow students in their academic journey!
   <a href="https://acm.cs.nthu.edu.tw/problem/14016"><strong>14016 - OSHINOKODA</strong></a>
 </p>
 
+<br>
+
 ### Sliding Window
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
