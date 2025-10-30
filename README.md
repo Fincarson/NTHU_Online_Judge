@@ -442,17 +442,25 @@ We hope this helps fellow students in their academic journey!
     <img src="Miscellaneous/Images/Sorting.jpg" width="850" alt="Stack">
   </a>
 </p>
+
+### Most commonly asked problems:
+- Insertion Sort
+- Bubble Sort
+- Merge Sort
+
+ 
+### Problem Set
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Spacer_Python.svg" alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13375_Class_3-E"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13375"><strong>13375 - Class 3-E</strong></a>
 </p>
 
 <br><br>
-
 
 
 
