@@ -437,6 +437,7 @@ A multi-dimensional array in C can be defined as an array that has more than one
   <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/11711_Dynamic_3D_array"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/11711"><strong>11711 - Dynamic 3D array</strong></a>
 </p>
 
