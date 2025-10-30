@@ -187,6 +187,28 @@ We hope this helps fellow students in their academic journey!
 
 <br>
 
+
+
+### Binary/Bitwise (&, |, !/~ , ^, <<, >>)
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13376"><strong>13376 - bored cat</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13403"><strong>13403 - Chicken Pu Translator</strong></a>
+</p>
+
+<br>
+
 ### String
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
@@ -211,26 +233,6 @@ We hope this helps fellow students in their academic journey!
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13312"><strong>13312 - Grab the Banana, Kris!</strong></a>
-</p>
-
-<br>
-
-### Binary/Bitwise (&, |, !/~ , ^, <<, >>)
-<p>
-  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
-  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
-  <a href="https://acm.cs.nthu.edu.tw/problem/13376"><strong>13376 - bored cat</strong></a>
-</p>
-<p>
-  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
-  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
-  <a href="https://acm.cs.nthu.edu.tw/problem/13403"><strong>13403 - Chicken Pu Translator</strong></a>
 </p>
 
 <br>
@@ -280,6 +282,14 @@ We hope this helps fellow students in their academic journey!
   <a href="https://acm.cs.nthu.edu.tw/problem/13394"><strong>13394 - Spider-verse</strong></a>
 </p>
 <p>
+  <sub><img src="Miscellaneous/Badges/Med.svg"           alt="MED"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13631"><strong>13631 - Nugget Frenzy</strong></a>
+</p>
+<p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
@@ -319,7 +329,7 @@ We hope this helps fellow students in their academic journey!
   <a href="https://acm.cs.nthu.edu.tw/problem/12604"><strong>12604 - N-Queens M-Rooks Problem</strong></a>
 </p>
 <p>
-  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
@@ -327,7 +337,7 @@ We hope this helps fellow students in their academic journey!
   <a href="https://acm.cs.nthu.edu.tw/problem/13333"><strong>13333 - Stewie vs Brian</strong></a>
 </p>
 <p>
-  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
@@ -335,23 +345,29 @@ We hope this helps fellow students in their academic journey!
   <a href="https://acm.cs.nthu.edu.tw/problem/13361"><strong>13361 - Cardcaptor Sakura</strong></a>
 </p>
 <p>
-  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13383"><strong>13383 - Cardcaptor Sakura2</strong></a>
 </p>
-
 <p>
   <sub><img src="Miscellaneous/Badges/Med.svg"           alt="MED"    height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
-  <a href="https://acm.cs.nthu.edu.tw/problem/13383"><strong>13599 - Find the amount of the pattern</strong></a>
+  <a href="https://acm.cs.nthu.edu.tw/problem/13599"><strong>13599 - Find the amount of the pattern</strong></a>
 </p>
-
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13599"><strong>13648 - Text maze</strong></a>
+</p>
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -387,6 +403,9 @@ We hope this helps fellow students in their academic journey!
 
 <br>
 
+
+
+
 ### 3D Array
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
@@ -399,6 +418,9 @@ We hope this helps fellow students in their academic journey!
 
 <br>
 
+
+
+
 ### Sorting
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
@@ -409,6 +431,9 @@ We hope this helps fellow students in their academic journey!
   <a href="https://acm.cs.nthu.edu.tw/problem/13375"><strong>13375 - Class 3-E</strong></a>
 </p>
 <br>
+
+
+
 
 ### Recursion
 <p>
@@ -452,7 +477,7 @@ We hope this helps fellow students in their academic journey!
   <a href="https://acm.cs.nthu.edu.tw/problem/13345"><strong>13345 - Domo run!</strong></a>
 </p>
 <p>
-  <sub><img src="Miscellaneous/Badges/Hard.svg"           alt="MED"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
@@ -461,10 +486,18 @@ We hope this helps fellow students in their academic journey!
 </p>
 <p>
   <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13628"><strong>13628 - Elsa's curse</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Spacer_Python.svg" alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14029"><strong>14029 - Piece of a Dragon Curve</strong></a>
 </p>
 <p>
@@ -563,6 +596,9 @@ We hope this helps fellow students in their academic journey!
 
 <br>
 
+
+
+
 ### Prefix-Sum
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
@@ -618,7 +654,7 @@ We hope this helps fellow students in their academic journey!
 
 ### Breadth-First-Search (BFS)
 <p>
-  <sub><img src="Miscellaneous/Badges/HARD.svg"          alt="HARD"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
@@ -633,7 +669,7 @@ We hope this helps fellow students in their academic journey!
 
 ### Tree
 <p>
-  <sub><img src="Miscellaneous/Badges/HARD.svg"          alt="HARD"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
