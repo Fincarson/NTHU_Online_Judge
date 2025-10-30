@@ -483,6 +483,22 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <a href="https://acm.cs.nthu.edu.tw/problem/12602"><strong>12602 - OuQ String</strong></a>
 </p>
 <p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13333"><strong>13333 - Stewie vs Brian</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13680"><strong>13680 - Mr Bean</strong></a>
+</p>
+<p>
   <sub><img src="Miscellaneous/Badges/Med.svg"           alt="MED"    height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
@@ -491,12 +507,12 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <a href="https://acm.cs.nthu.edu.tw/problem/12604"><strong>12604 - N-Queens M-Rooks Problem</strong></a>
 </p>
 <p>
-  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Med.svg"           alt="MED"    height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
-  <a href="https://acm.cs.nthu.edu.tw/problem/13333"><strong>13333 - Stewie vs Brian</strong></a>
+  <a href="https://acm.cs.nthu.edu.tw/problem/13345"><strong>13345 - Domo run!</strong></a>
 </p>
 <p>
   <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"    height="18" /></sub>&ensp;
@@ -515,14 +531,6 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <a href="https://acm.cs.nthu.edu.tw/problem/13339"><strong>13339 - Karpet Ribet</strong></a>
 </p>
 <p>
-  <sub><img src="Miscellaneous/Badges/Med.svg"           alt="MED"    height="18" /></sub>&ensp;
-  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
-  <a href="https://acm.cs.nthu.edu.tw/problem/13345"><strong>13345 - Domo run!</strong></a>
-</p>
-<p>
   <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
@@ -537,14 +545,6 @@ Recursion a powerful mechanism to make your algorithm or codes more clear in som
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13628"><strong>13628 - Elsa's curse</strong></a>
-</p>
-<p>
-  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
-  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
-  <a href="https://acm.cs.nthu.edu.tw/problem/13680"><strong>13680 - Mr Bean</strong></a>
 </p>
 <p>
   <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
