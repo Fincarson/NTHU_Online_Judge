@@ -452,6 +452,11 @@ We hope this helps fellow students in their academic journey!
 
 ## Recursion
 <p>
+  <a href="https://blog.stackademic.com/master-recursion-one-branch-two-branch-techniques-7c7b404dc7c3">
+    <img src="Miscellaneous/Images/Recursion.webp" width="850" alt="Stack">
+  </a>
+</p>
+<p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
