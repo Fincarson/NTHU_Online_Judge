@@ -584,6 +584,7 @@ the next one
   <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13391_Domo_the_Train_Conductor"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13391"><strong>13391 - Domo the Train Conductor </strong></a>
 </p>
 <p>
@@ -592,6 +593,7 @@ the next one
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/14664_DS_HW1_String_Manipulation"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14664"><strong>14664 - DS HW1 String Manipulation</strong></a>
 </p>
 <p>
@@ -600,6 +602,7 @@ the next one
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/14741_DS_Quiz1_A_ticket_counter_queue"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14741"><strong>14741 - DS Quiz1 A ticket counter queue</strong></a>
 </p>
 <p>
@@ -608,6 +611,7 @@ the next one
   <sub><img src="Miscellaneous/Badges/Spacer_Java.svg"   alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Spacer_CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/13412_I_hate_Christmas"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13412"><strong>13412 - I hate Christmas </strong></a>
 </p>
 <p>
@@ -616,6 +620,7 @@ the next one
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="Solutions/14584_Lantern_Festival"><strong>Solution</strong></a>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/14584"><strong>14584 - Lantern Festival</strong></a>
 </p>
 
