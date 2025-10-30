@@ -554,6 +554,11 @@ We hope this helps fellow students in their academic journey!
 
 ## Linked-List
 <p>
+  <a href="https://www.simplilearn.com.cach3.com/tutorials/data-structure-tutorial/types-of-linked-list.html">
+    <img src="Miscellaneous/Images/Linked_List_Data_Structure.png" width="850" alt="Stack">
+  </a>
+</p>
+<p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
