@@ -615,8 +615,11 @@ A stack is a specialized ordered list in which insertions (or called additions o
 Stack is a FILO/LIFO data structure.
  
 Most commonly asked problem:
-- Prefix / Infix / Postfix
- 
+- Transform Infix to Postfix
+- Transform Infix to Prefix
+- Transform Postfix to Prefix
+- Transform Prefix to Postfix
+______________________________________________________________________
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
