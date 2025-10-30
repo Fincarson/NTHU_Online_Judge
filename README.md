@@ -559,6 +559,16 @@ We hope this helps fellow students in their academic journey!
   </a>
 </p>
 <p>
+A linked list are nodes that no longer continue in the memory and each node stores the address or location of
+the next one
+ 
+### Most commonly asked problem:
+- Linked-List Operations: Insert, delete, reverse
+- Implement Stack with Linked-List
+- Implement Queue with Linked-List
+- Tree/Graph
+ 
+### Problem Set
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
