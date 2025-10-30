@@ -342,6 +342,16 @@ We hope this helps fellow students in their academic journey!
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13383"><strong>13383 - Cardcaptor Sakura2</strong></a>
 </p>
+
+<p>
+  <sub><img src="Miscellaneous/Badges/Med.svg"           alt="MED"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13383"><strong>13599 - Find the amount of the pattern</strong></a>
+</p>
+
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -565,6 +575,9 @@ We hope this helps fellow students in their academic journey!
 
 <br>
 
+
+
+
 ### Sliding Window
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
@@ -576,6 +589,9 @@ We hope this helps fellow students in their academic journey!
 </p>
 
 <br>
+
+
+
 
 ### Dynamic Programming
 <p>
@@ -593,4 +609,34 @@ We hope this helps fellow students in their academic journey!
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13348"><strong>13348 - DomoMaze - easy version</strong></a>
+</p>
+
+<br>
+
+
+
+
+### Breadth-First-Search (BFS)
+<p>
+  <sub><img src="Miscellaneous/Badges/HARD.svg"          alt="HARD"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13436"><strong>13436 - Remove the leaves</strong></a>
+</p>
+
+<br>
+
+
+
+
+### Tree
+<p>
+  <sub><img src="Miscellaneous/Badges/HARD.svg"          alt="HARD"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13436"><strong>13436 - Remove the leaves</strong></a>
 </p>
