@@ -362,12 +362,28 @@ We hope this helps fellow students in their academic journey!
   <a href="https://acm.cs.nthu.edu.tw/problem/13599"><strong>13599 - Find the amount of the pattern</strong></a>
 </p>
 <p>
-  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13599"><strong>13648 - Text maze</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13679"><strong>13679 - ZvP</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13685"><strong>13685 - Hot-Cross-Bun</strong></a>
 </p>
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
@@ -443,7 +459,23 @@ We hope this helps fellow students in their academic journey!
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/12496"><strong>12496 - Eight Queen</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/12602"><strong>12602 - OuQ String</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Med.svg"           alt="MED"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/12604"><strong>12604 - N-Queens M-Rooks Problem</strong></a>
 </p>
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"    height="18" /></sub>&ensp;
@@ -492,6 +524,14 @@ We hope this helps fellow students in their academic journey!
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13628"><strong>13628 - Elsa's curse</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13680"><strong>13680 - Mr Bean</strong></a>
 </p>
 <p>
   <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
@@ -570,6 +610,9 @@ We hope this helps fellow students in their academic journey!
 
 
 ### Stack
+Most commonly asked Problem:
+- Prefix / Infix / Postfix
+ 
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -577,6 +620,14 @@ We hope this helps fellow students in their academic journey!
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13342"><strong>13342 - Domo to omoD</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13693"><strong>13693 - Domo sonnan ja dame</strong></a>
 </p>
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
