@@ -456,8 +456,7 @@ We hope this helps fellow students in their academic journey!
     <img src="Miscellaneous/Images/Recursion.webp" width="850" alt="Stack">
   </a>
 </p>
-<p><i>TO ITERATE IS HUMAN</i></p>
-<p><i>RECURSION, DIVINE</i></p>
+<p><i>TO ITERATE IS HUMAN.   RECURSION, DIVINE</i></p>
  
 Recursion a powerful mechanism to make your algorithm or codes more clear in some cases.
  
