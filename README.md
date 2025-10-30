@@ -20,9 +20,7 @@ We hope this helps fellow students in their academic journey!
 
 <br><br>
 
-## Practice Problems
-
-### Hello, World! (Introduction)
+## Introduction - Hello, World!
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"         alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"       alt="PYTHON" height="18" /></sub>
@@ -99,7 +97,7 @@ We hope this helps fellow students in their academic journey!
 
 <br>
 
-### Slicing (Python)
+## Slicing (Python)
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -136,7 +134,7 @@ We hope this helps fellow students in their academic journey!
 
 <br>
 
-### List, Tuple, Dictionary, Set (Python)
+## List, Tuple, Dictionary, Set (Python)
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -190,7 +188,7 @@ We hope this helps fellow students in their academic journey!
 
 
 
-### Binary/Bitwise
+## Binary/Bitwise
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -210,7 +208,7 @@ We hope this helps fellow students in their academic journey!
 
 <br>
 
-### String
+## String
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -241,7 +239,7 @@ We hope this helps fellow students in their academic journey!
 
 
 
-### Array
+## Array
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -312,7 +310,7 @@ We hope this helps fellow students in their academic journey!
 
 
 
-### 2D Array
+## 2D Array
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -423,7 +421,7 @@ We hope this helps fellow students in their academic journey!
 
 
 
-### 3D Array
+## 3D Array
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Spacer_Python.svg" alt="PYTHON" height="18" /></sub>
@@ -438,7 +436,7 @@ We hope this helps fellow students in their academic journey!
 
 
 
-### Sorting
+## Sorting
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Spacer_Python.svg" alt="PYTHON" height="18" /></sub>
@@ -452,7 +450,7 @@ We hope this helps fellow students in their academic journey!
 
 
 
-### Recursion
+## Recursion
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -554,7 +552,7 @@ We hope this helps fellow students in their academic journey!
 
 
 
-### Linked-List
+## Linked-List
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -608,8 +606,7 @@ We hope this helps fellow students in their academic journey!
 
 
 
-___
-### Stack
+## Stack
 A stack is a specialized ordered list in which insertions (or called additions or pushes) and deletions (or called removals or pops) are made at one end called the top.
  
 Stack is a FILO/LIFO data structure.
@@ -658,7 +655,7 @@ Most commonly asked problem:
 
 
 
-### Prefix-Sum
+## Prefix-Sum
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -673,7 +670,7 @@ Most commonly asked problem:
 
 
 
-### Sliding Window
+## Sliding Window
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -688,7 +685,7 @@ Most commonly asked problem:
 
 
 
-### Dynamic Programming
+## Dynamic Programming
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -711,7 +708,7 @@ Most commonly asked problem:
 
 
 
-### Breadth-First-Search (BFS)
+## Breadth-First-Search (BFS)
 <p>
   <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
@@ -726,7 +723,7 @@ Most commonly asked problem:
 
 
 
-### Tree
+## Tree
 <p>
   <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
