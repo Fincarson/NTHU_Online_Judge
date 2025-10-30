@@ -334,10 +334,10 @@ We hope this helps fellow students in their academic journey!
 ### Recursion
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
-  <sub><img src="Miscellaneous/Badges/Python.svg" alt="PYTHON" height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/Java.svg"   alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/CPP.svg"    alt="C++"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/12602"><strong>12602 - OuQ String</strong></a>
 </p>
 <p>
@@ -347,6 +347,30 @@ We hope this helps fellow students in their academic journey!
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13333"><strong>13333 - Stewie vs Brian</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13337"><strong>13337 - Karpet Sierpinski</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13339"><strong>13339 - Karpet Ribet</strong></a>
+</p>
+<p>
+  <sub><img src="Miscellaneous/Badges/Med.svg"           alt="MED"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13345"><strong>13345 - Domo run!</strong></a>
 </p>
 <p>
   <sub><img src="Miscellaneous/Badges/Hard.svg"          alt="HARD"   height="18" /></sub>&ensp;
@@ -403,6 +427,14 @@ We hope this helps fellow students in their academic journey!
 <br>
 
 ### Stack
+<p>
+  <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <a href="https://acm.cs.nthu.edu.tw/problem/13342"><strong>13342 - Domo to omoD</strong></a>
+</p>
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
