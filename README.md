@@ -570,10 +570,10 @@ the next one
  
 ### Problem Set
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
-  <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Space_Python.svg"  alt="PYTHON" height="18" /></sub>
+  <sub><img src="Miscellaneous/Badges/Space_Java.svg"    alt="JAVA"   height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/C.svg"             alt="C"      height="18" /></sub>
-  <sub><img src="Miscellaneous/Badges/CPP.svg"           alt="C++"    height="18" /></sub>&ensp;
+  <sub><img src="Miscellaneous/Badges/Space_CPP.svg"     alt="C++"    height="18" /></sub>&ensp;
   <a href="https://acm.cs.nthu.edu.tw/problem/13129"><strong>13129 - Prize!</strong></a>
 </p>
 <p>
