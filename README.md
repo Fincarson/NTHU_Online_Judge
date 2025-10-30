@@ -190,7 +190,7 @@ We hope this helps fellow students in their academic journey!
 
 
 
-### Binary/Bitwise (&, |, !/~ , ^, <<, >>)
+### Binary/Bitwise
 <p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
