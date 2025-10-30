@@ -610,7 +610,11 @@ We hope this helps fellow students in their academic journey!
 
 
 ### Stack
-Most commonly asked Problem:
+A stack is a specialized ordered list in which insertions (or called additions or pushes) and deletions (or called removals or pops) are made at one end called the top.
+ 
+Stack is a FILO/LIFO data structure.
+ 
+Most commonly asked problem:
 - Prefix / Infix / Postfix
  
 <p>
