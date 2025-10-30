@@ -562,7 +562,7 @@ We hope this helps fellow students in their academic journey!
 A linked list are nodes that no longer continue in the memory and each node stores the address or location of
 the next one
  
-### Most commonly asked problem:
+### Most commonly asked problems:
 - Linked-List Operations: Insert, delete, reverse
 - Implement Stack with Linked-List
 - Implement Queue with Linked-List
@@ -629,7 +629,7 @@ A stack is a specialized ordered list in which insertions (or called additions o
  
 Stack is a FILO/LIFO data structure.
  
-### Most commonly asked problem:
+### Most commonly asked problems:
 - Transform Infix to Postfix
 - Transform Infix to Prefix
 - Transform Postfix to Prefix
