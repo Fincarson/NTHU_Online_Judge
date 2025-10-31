@@ -312,6 +312,11 @@ We hope this helps fellow students in their academic journey!
 
 ## 2D Array
 <p>
+  <a href="https://www.geeksforgeeks.org/c/multidimensional-arrays-in-c/">
+    <img src="Miscellaneous/Images/2D_Array.webp" width="850" alt="Stack">
+  </a>
+</p>
+<p>
   <sub><img src="Miscellaneous/Badges/Easy.svg"          alt="EASY"   height="18" /></sub>&ensp;
   <sub><img src="Miscellaneous/Badges/Python.svg"        alt="PYTHON" height="18" /></sub>
   <sub><img src="Miscellaneous/Badges/Java.svg"          alt="JAVA"   height="18" /></sub>
